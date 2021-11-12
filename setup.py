@@ -34,8 +34,6 @@ setup(
         'pyserial',
         'pyyaml',
         'transforms3d',
-        'vpython',
-        'wxPython'
     ],
     author='Kristof Robot, Tang Tiong Yew, Paul Bouchier, Peter Bartz',
     maintainer='Kristof Robot',

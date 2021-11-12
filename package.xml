@@ -28,7 +28,6 @@
     <depend>sensor_msgs</depend>
     <depend>python-serial</depend>
     <depend>vpython</depend>
-    <depend>wxPython</depend>
     <depend>transforms3d</depend>
 
     <export>
